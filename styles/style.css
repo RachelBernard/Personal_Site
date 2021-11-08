@@ -122,7 +122,11 @@ p {
     margin: 50px auto;
   }
   h1 {
-    font-size: 50pt;
+    font-size: 40pt;
+  }
+
+  h2 {
+    font-size: 30px;
   }
 }
 
