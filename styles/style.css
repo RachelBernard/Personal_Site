@@ -125,6 +125,10 @@ h3 {
   .project-title {
     text-align: center;
   }
+
+  p {
+    text-align: center;
+  }
 }
 
 .lorem {
