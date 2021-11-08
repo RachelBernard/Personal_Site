@@ -114,10 +114,11 @@ p {
   color: white;
 }
 
-@media (max-width: 900px) {
-  .button {
+@media (max-width: 768px) {
+  .project-links {
     display: block;
     text-align: center;
+    margin: 50px auto;
   }
 }
 
